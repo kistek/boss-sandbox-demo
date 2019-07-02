@@ -1,4 +1,2 @@
 @memoize
 function()
-
-// pretend this fixes render bug with vue.js
