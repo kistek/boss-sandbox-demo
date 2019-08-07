@@ -1,4 +1,4 @@
+#this is a test
 @memoize
-function()
-
-//pretend this fixes vue.js render bug
+def my_func():
+    pass
