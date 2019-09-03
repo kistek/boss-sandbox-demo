@@ -2,3 +2,5 @@
 @memoize
 def my_func():
     pass
+
+#fix 30
